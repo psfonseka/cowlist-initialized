@@ -8,11 +8,11 @@ These instructions are copyrighted material and may not be distributed without p
 
 Read this entire document before starting your work. Complete the work in order.
 
+Use npm install to add all necessary starting packages. Then use npm run build-dev to compile the react code into your bundle and npm start to start the server, which will automatically serve the client files. - Pravin
+
 ## Goal
 
 Create a CRUD app using React (without Redux) that interfaces with a RESTful API powered by Node (with Express) and a database (MySQL or MariaDB or MongoDB).
-
-Don't use anything that writes code for you (like `create-react-app`). On the other hand, using `npm init` to create the `package.json` and `npm install` to populate the `package.json` is permitted (and encouraged). Don't forget to commit regularly and upload your work to GitHub!
 
 As much as possible, stick to using only the official documentation and StackOverflow. Strive to limit your use of video and blog post tutorials.
 
