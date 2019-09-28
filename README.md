@@ -72,4 +72,5 @@ Next, add the frontend functionality that allows users to edit existing records 
 ## Credits
 
 Taken from the cowlist [gist by the robinkin](https://gist.github.com/therobinkim/66daa2cf6e4c69e4ebdc8a6213f2c1d8)
+
 Made with [createapp.dev](https://createapp.dev/)
